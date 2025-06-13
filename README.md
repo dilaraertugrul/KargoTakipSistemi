@@ -15,13 +15,27 @@ Ayrıca veriler dosyaya kaydedilir ve uygulama açıldığında otomatik olarak 
 ## 🖼️ Form Görüntüleri
 
 ### Ana Arayüz
-![Ana Arayüz](ana-arayuz.png)
+
+
+<img width="1015" alt="ana-arayuz" src="https://github.com/user-attachments/assets/b6c2eebd-5dbd-40af-9252-1efbbd941af7" />
+
+
+
 
 ### Durum Ayarlama
-![Gönderi Ekleme](durum-ayarlama.png)
+
+
+<img width="1014" alt="durum-ayarlama" src="https://github.com/user-attachments/assets/9e1fd339-1498-46d1-969e-7a56437a06df" />
+
+
+
 
 ### Takip No İle Sorgulama
-![Durum Güncelleme](takipno-ile-sorgulama.png)
+
+<img width="1013" alt="takipno-ile-sorgulama" src="https://github.com/user-attachments/assets/fb06938b-0d68-461f-b7d9-01d39c0cecd1" />
+
+
+
 
 ## 🛠️ Kullanılan Teknolojiler
 

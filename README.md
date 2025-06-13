@@ -22,6 +22,7 @@ Ayrıca veriler dosyaya kaydedilir ve uygulama açıldığında otomatik olarak 
 
 
 
+
 ### Durum Ayarlama
 
 
@@ -30,9 +31,11 @@ Ayrıca veriler dosyaya kaydedilir ve uygulama açıldığında otomatik olarak 
 
 
 
+
 ### Takip No İle Sorgulama
 
 <img width="1013" alt="takipno-ile-sorgulama" src="https://github.com/user-attachments/assets/fb06938b-0d68-461f-b7d9-01d39c0cecd1" />
+
 
 
 
